@@ -1,0 +1,49 @@
+---
+title: "Definição do Tema da Monografia"
+subtitle: 
+- Especialização em Data Science & Big Data - Turma 2019\newline Universidade Federal do Paraná
+author: 
+- Antonio C. da Silva Júnior
+date: "`r format(Sys.time(), '%d/%m/%Y')`"
+output: 
+  beamer_presentation:
+    theme: "Boadilla"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Orientador
+
+- Prof. Walmes Zeviani.
+
+## Tema
+
+- Análise Preditiva de Churn com Visualização Interativa.
+
+## Tema
+
+- Churn?
+- Olist?
+- Marketplace?
+
+## Objetivo
+
+- Ações antecipadas;
+- Retenção dos clientes.
+
+## Desafio
+
+- Escolher as melhores variáveis;
+- Avaliar qual o modelo mais adequado;
+- Construir visualizações interativas;
+- Colocar o projeto em produção.
+
+## \phantom{}
+
+\begin{center}
+Fim
+\end{center}
+
+
