@@ -1,4 +1,4 @@
-# Apresentação da definição do tema da monografia da Especialização em Data Science & Big Data
+# dsbd-monography-theme
 
-Universidade Federal do Paraná
+Apresentação do tema da monografia da Especialização em Data Science & Big Data - turma 2019, da Universidade Federal do Paraná.
 
