@@ -1,28 +1,22 @@
 ---
-title: "Definição do Tema da Monografia"
+title: "."
 subtitle: 
 - Especialização em Data Science & Big Data - Turma 2019\newline Universidade Federal do Paraná
-author: 
-- Antonio C. da Silva Júnior
-date: "`r format(Sys.time(), '%d/%m/%Y')`"
+date: \today
 output: 
   beamer_presentation:
     theme: "Boadilla"
+header-includes:
+  - \AtBeginDocument{\title[Monografia DSBD 2019]{Análise Preditiva de Churn com Visualização Interativa}}
+  - \usepackage[brazil]{babel}
+  - \author[Antonio C. da Silva Júnior]{Antonio C. da Silva Júnior\newline Orientador$:$ Prof. Walmes M. Zeviani}
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-## Orientador
-
-- Prof. Walmes Zeviani.
-
-## Tema
-
-- Análise Preditiva de Churn com Visualização Interativa.
-
-## Tema
+## Contexto
 
 - Churn?
 - Olist?
